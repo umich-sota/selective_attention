@@ -1,0 +1,16 @@
+{
+    "name": "tfpp_experiment",
+    "vocab_size": 32000,
+    "padding_multiple": 64,
+    "n_layer": 12,
+    "n_head": 12,
+    "n_embd": 768,
+    "n_query_groups": 12,
+    "rotary_percentage": 1.0,
+    "parallel_residual": false,
+    "bias": false,
+    "_norm_class": "GMRNorm",
+    "_mlp_class": "LLaMAMLP",
+    "intermediate_size": 1920,
+    "block_size": 1024
+}

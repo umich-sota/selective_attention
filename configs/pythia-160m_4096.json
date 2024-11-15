@@ -1,0 +1,8 @@
+{
+    "block_size": 4096,
+    "condense_ratio": 2,
+    "n_layer": 12,
+    "n_embd": 768,
+    "n_head": 12,
+    "padding_multiple": 128
+}

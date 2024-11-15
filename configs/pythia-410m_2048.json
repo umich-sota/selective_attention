@@ -1,0 +1,7 @@
+{
+    "block_size": 2048,
+    "n_layer": 24,
+    "n_embd": 1024,
+    "n_head": 16,
+    "padding_multiple": 128
+}
